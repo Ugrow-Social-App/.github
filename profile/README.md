@@ -1,4 +1,4 @@
-<img src="./public/assets/images/logo.png" alt="English version: Ugrow's Logo. Português Brasil versão: Logotipo do Ugrow">
+<img src="../public/assets/images/logo.png" alt="English version: Ugrow's Logo. Português Brasil versão: Logotipo do Ugrow">
 
 ---
 
